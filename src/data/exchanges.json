@@ -1,0 +1,20 @@
+[
+  {
+    "name": "New York Stock Exchange",
+    "lat": 40.7069,
+    "lng": -74.0113,
+    "cloud": "AWS"
+  },
+  {
+    "name": "London Stock Exchange",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "cloud": "Azure"
+  },
+  {
+    "name": "Tokyo Stock Exchange",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "cloud": "GCP"
+  }
+]
